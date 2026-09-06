@@ -3,7 +3,7 @@
     "username": "appyx123",
     "email": "avcl061202@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "cname.vercel-dns.com",
     "TXT": [
       "vc-domain-verify=rafli.is-a.dev,8e503e734353458836ce",
