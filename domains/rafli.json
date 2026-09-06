@@ -3,6 +3,7 @@
     "username": "appyx123",
     "email": "avcl061202@gmail.com"
   },
+  "proxied": true,
   "records": {
     "CNAME": "cname.vercel-dns.com",
     "TXT": [
